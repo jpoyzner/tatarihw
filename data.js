@@ -1,0 +1,1 @@
+export default JSON.parse('{"totalSpots":7,"totalSpend":3061,"totalViews":990,"creatives":{"TEST001H":{"totalSpend":1461,"totalViews":520,"CPV":3.5,"name":"TEST001H"},"TEST002H":{"totalSpend":1600,"totalViews":470,"CPV":2.3333333333333335,"name":"TEST002H"}}}');

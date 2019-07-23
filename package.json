@@ -1,0 +1,37 @@
+{
+  "name": "HW",
+  "version": "1.0.0",
+  "description": "HW",
+  "main": "build.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "Jeff Poyzner",
+  "dependencies": {
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.1",
+    "express": "^4.16.1",
+    "fs": "0.0.1-security",
+    "jquery": "^3.3.1",
+    "net": "^1.0.2",
+    "node-sass": "^4.5.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "redux-devtools": "^3.4.0",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.17.0",
+    "superagent": "^3.5.2",
+    "tls": "0.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "webpack": "^2.7.0"
+  }
+}
